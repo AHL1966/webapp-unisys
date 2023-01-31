@@ -1,4 +1,4 @@
-# Ejemplo de uso de Arquetipo Webapp Maven version de Alfonso
+# Ejemplo de uso de Arquetipo Webapp Maven version de Alfonso para Github
 # Compilación
 <code>$ mvn clean compile</code>
 # Empaquetado
